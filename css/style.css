@@ -179,7 +179,7 @@ p {
 .brand-copy {
   display: flex;
   flex-direction: column;
-  gap: 3px;
+  gap: 7px;
 }
 
 .brand-name {

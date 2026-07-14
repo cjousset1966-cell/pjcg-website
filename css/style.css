@@ -111,6 +111,7 @@ h1 {
 h2 {
   max-width: 900px;
   margin-bottom: 28px;
+  font-family: "EB Garamond", serif;
   font-size: clamp(2.4rem, 4.5vw, 4.4rem);
   line-height: 1.05;
 }
@@ -264,7 +265,7 @@ p {
 .hero-intro {
   max-width: 760px;
   margin-bottom: 20px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "EB Garamond", serif;
   font-size: clamp(1.4rem, 2.3vw, 2rem);
   line-height: 1.35;
 }
@@ -273,6 +274,7 @@ p {
   max-width: 720px;
   margin-bottom: 34px;
   color: rgba(255,255,255,0.82);
+  font-family: "EB Garamond", serif;
 }
 
 .hero-actions {

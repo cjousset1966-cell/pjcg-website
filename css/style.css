@@ -253,8 +253,8 @@ p {
   z-index: 2;
   padding-top: 120px;
   padding-bottom: 86px;
-  padding-left: 40px;
   color: #fff;
+  transform: translateX(-70px);
 }
 
 .hero .eyebrow {

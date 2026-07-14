@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#F8F6F2"/>
+  <g fill="#22201D" font-family="Arial, Helvetica, sans-serif" font-weight="600" text-anchor="middle">
+    <text x="600" y="520" font-size="280">PJ</text>
+    <text x="600" y="850" font-size="280">CG</text>
+  </g>
+</svg>

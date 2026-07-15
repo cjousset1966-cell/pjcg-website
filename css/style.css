@@ -209,7 +209,7 @@ p {
   display: flex;
   align-items: center;
   gap: 30px;
-  margin-left: auto;
+  margin-left: 60px;
   font-size: 0.78rem;
   white-space: nowrap;
 }

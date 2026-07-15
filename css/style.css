@@ -205,8 +205,8 @@ p {
 .main-nav {
   display: flex;
   align-items: center;
-  gap: 22px;
-  font-size: 0.84rem;
+  gap: 34px;
+  margin-left: auto;
 }
 
 .main-nav a {

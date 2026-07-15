@@ -208,7 +208,7 @@ p {
 .main-nav {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: 38px;
   margin-left: 60px;
   font-size: 0.78rem;
   white-space: nowrap;

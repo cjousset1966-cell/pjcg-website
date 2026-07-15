@@ -213,6 +213,7 @@ p {
   font-size: 0.78rem;
   white-space: nowrap;
   justify-content: space-between;
+  flex: 1;
 }
 
 .main-nav a {

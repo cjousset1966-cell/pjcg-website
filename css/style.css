@@ -155,11 +155,10 @@ p {
 }
 
 .header-inner {
-  min-height: 82px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 28px;
+  gap: 40px;
 }
 
 .brand {

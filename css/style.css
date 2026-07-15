@@ -205,8 +205,10 @@ p {
 .main-nav {
   display: flex;
   align-items: center;
-  gap: 34px;
+  gap: 18px;
   margin-left: auto;
+  font-size: 0.78rem;
+  white-space: nowrap;
 }
 
 .main-nav a {

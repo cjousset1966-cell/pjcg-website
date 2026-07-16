@@ -145,6 +145,21 @@ p {
 }
 
 /* Header */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(217, 209, 199, 0.8);
+  background: rgba(244, 240, 233, 0.92);
+  backdrop-filter: blur(16px);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
 .brand {
   display: flex;
   align-items: center;
@@ -208,6 +223,7 @@ p {
   background: var(--ink);
   color: #fff !important;
 }
+
 .menu-toggle {
   display: none;
   width: 44px;

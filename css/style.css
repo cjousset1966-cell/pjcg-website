@@ -366,7 +366,7 @@ p {
 
 .audience-card,
 .service-card {
-  min-height: 230px;
+  min-height: 200px;
   padding: 32px;
   border: 1px solid var(--line);
   border-radius: var(--radius);

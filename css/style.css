@@ -60,8 +60,9 @@ a {
 }
 
 .section {
-  padding: 110px 0;
+  padding: 140px 0;
 }
+
 
 .section-light {
   background: var(--surface);

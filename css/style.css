@@ -140,6 +140,10 @@ p {
   margin-bottom: 42px;
 }
 
+#publics {
+  padding-top: 100px;
+}
+
 .section-heading > p:last-child {
   margin-bottom: 0;
   font-size: 1.08rem;

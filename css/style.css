@@ -701,5 +701,5 @@ blockquote p {
 }
 
 #story h2 {
-  color: var(--color-text);
+  color: var(--ink);
 }

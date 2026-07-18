@@ -693,8 +693,13 @@ blockquote p {
   .split-media {
     min-height: 390px;
   }
+  
 
   .logo-placeholder {
     grid-template-columns: 1fr 1fr;
   }
+}
+
+#story h2 {
+  color: var(--color-text);
 }

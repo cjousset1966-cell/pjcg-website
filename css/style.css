@@ -726,8 +726,8 @@ blockquote p {
 .story-hero h1 {
   max-width: 820px;
   margin: 0;
-  font-size: clamp(3rem, 5.5vw, 5.4rem);
-  line-height: 0.95;
+  font-size: clamp(2.7rem, 5vw, 4.8rem);
+  line-height: 1.05;
   letter-spacing: -0.04em;
 }
 

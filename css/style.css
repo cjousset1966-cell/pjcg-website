@@ -706,9 +706,9 @@ blockquote p {
 /* Story page hero */
 
 .story-hero {
-  padding: 110px 0 90px;
-}
-}
+    padding: 110px 0 90px;
+    max-width: 1280px;
+    margin: 0 auto;
 }
 
 .story-hero-content {

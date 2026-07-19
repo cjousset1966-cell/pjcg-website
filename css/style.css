@@ -801,11 +801,19 @@ blockquote p {
     gap: 40px;
   }
   @media (min-width: 701px) {
-  .story-hero-grid {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(420px, 0.95fr);
+  .story-hero-content .story-hero-grid {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) minmax(420px, 0.95fr) !important;
     gap: 64px;
     align-items: center;
+  }
+
+  .story-hero-text {
+    min-width: 0;
+  }
+
+  .story-hero-photo {
+    width: 100%;
   }
 }
 

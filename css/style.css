@@ -779,7 +779,7 @@ blockquote p {
   height: 100%;
   display: block;
   object-fit: cover;
-  object-position: 50% 50%;
+  object-position: 52% 22%;
 }
 
 @media (max-width: 900px) {

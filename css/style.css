@@ -800,6 +800,14 @@ blockquote p {
     grid-template-columns: 1fr;
     gap: 40px;
   }
+  @media (min-width: 701px) {
+  .story-hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(420px, 0.95fr);
+    gap: 64px;
+    align-items: center;
+  }
+}
 
   .story-hero-photo {
     height: 520px;

@@ -703,3 +703,56 @@ blockquote p {
 #story h2 {
   color: var(--ink);
 }
+/* Story page hero */
+
+.story-hero {
+  padding: 110px 0 90px;
+}
+
+.story-hero-content {
+  width: min(1180px, calc(100% - 48px));
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.story-eyebrow {
+  margin: 0 0 22px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.story-hero h1 {
+  max-width: 820px;
+  margin: 0;
+  font-size: clamp(3.8rem, 7vw, 7.2rem);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+}
+
+.story-hero-intro {
+  max-width: 780px;
+  margin: 38px 0 0;
+  font-size: 1.2rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 700px) {
+  .story-hero {
+    padding: 72px 0 60px;
+  }
+
+  .story-hero-content {
+    width: min(100% - 32px, 900px);
+  }
+
+  .story-hero h1 {
+    font-size: clamp(3rem, 16vw, 4.8rem);
+  }
+
+  .story-hero-intro {
+    margin-top: 28px;
+    font-size: 1.05rem;
+  }
+}

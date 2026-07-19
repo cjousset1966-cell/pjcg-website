@@ -756,7 +756,9 @@ blockquote p {
 
   .story-hero-intro {
     margin-top: 28px;
+    max-width: 520px;
     font-size: 1.05rem;
+    line-height: 1.9;
 }
 
 .story-hero-intro p {

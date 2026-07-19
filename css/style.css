@@ -736,8 +736,9 @@ blockquote p {
 .story-hero-intro {
   max-width: 520px;
   margin: 48px 0 0;
-  font-size: 1.1rem;
-  line-height: 1.75;
+  font-size: 1.08rem;
+  line-height: 1.85;
+  color: #3f3a35;
 }
 
 @media (max-width: 700px) {

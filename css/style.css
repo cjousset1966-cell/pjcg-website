@@ -770,7 +770,7 @@ blockquote p {
 }
 
 .story-hero-photo {
-  height: 560px;
+  height: 480px;
   border-radius: var(--radius);
   overflow: hidden;
   box-shadow: var(--shadow);

@@ -757,7 +757,14 @@ blockquote p {
   .story-hero-intro {
     margin-top: 28px;
     font-size: 1.05rem;
-  }
+}
+
+.story-hero-intro p {
+    margin: 0 0 2rem;
+}
+
+.story-hero-intro p:last-child {
+    margin-bottom: 0;
 }
 .story-hero-grid {
   display: grid;

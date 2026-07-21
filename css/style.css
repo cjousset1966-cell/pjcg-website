@@ -805,3 +805,33 @@ blockquote p {
     margin-top: 0;
   }
 }
+/* ===== Story layout ===== */
+
+.story-split {
+  display: grid;
+  grid-template-columns: 420px 1fr;
+  gap: 5rem;
+  align-items: start;
+}
+
+.story-image img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
+.story-text {
+  max-width: 700px;
+}
+
+@media (max-width: 900px) {
+  .story-split {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .story-image {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+}

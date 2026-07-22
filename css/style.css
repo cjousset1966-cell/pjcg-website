@@ -821,7 +821,17 @@ blockquote p {
 }
 
 .story-text {
-  max-width: 700px;
+  max-width: 680px;
+  width: 100%;
+  align-self: center;
+}
+
+.story-text .prose {
+  max-width: 42rem;
+}
+
+.story-text h2 {
+  margin-bottom: 2rem;
 }
 
 @media (max-width: 900px) {

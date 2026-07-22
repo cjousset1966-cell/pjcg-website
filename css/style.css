@@ -809,9 +809,9 @@ blockquote p {
 
 .story-split {
   display: grid;
-  grid-template-columns: 420px 1fr;
-  gap: 5rem;
-  align-items: start;
+  grid-template-columns: minmax(320px, 44%) minmax(0, 56%);
+  gap: 4rem;
+  align-items: center;
 }
 
 .story-image img {

@@ -815,8 +815,9 @@ blockquote p {
 }
 
 .story-image img {
-  width: 100%;
+  width: 92%;
   display: block;
+  margin: 0 auto;
   border-radius: 6px;
 }
 

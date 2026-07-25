@@ -432,7 +432,10 @@ p {
   gap: 72px;
   align-items: center;
 }
-
+.split-section {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  padding-top: 5rem;
+}
 .split-media {
   height: 680px;
   border-radius: var(--radius);

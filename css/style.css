@@ -170,7 +170,7 @@ p {
   align-items: center;
   gap: 12px;
   text-decoration: none;
-  margin-left: -125px;
+  margin-left: 0;
   flex: 0 0 auto;
 }
 
@@ -206,8 +206,8 @@ p {
 .main-nav {
   display: flex;
   align-items: center;
-  gap: 60px;
-  margin-left: 90px;
+  gap: 48px;
+  margin-left: 40px;
   font-size: 0.78rem;
   white-space: nowrap;
   justify-content: space-between;

@@ -434,7 +434,7 @@ p {
 }
 .split-section {
   background: var(--surface);
-  padding: 6rem 0;
+  padding: 100px 0;
 }
 .split-media {
   height: 680px;

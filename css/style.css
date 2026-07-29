@@ -75,10 +75,11 @@ a {
 
 .section-kicker,
 .eyebrow {
+  display: inline-block;
   margin: 0 0 18px;
   color: var(--terracotta);
-  font-size: 0.78rem;
-  font-weight: 700;
+  font-size: 0.8rem;
+  font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
 }

@@ -720,9 +720,9 @@ blockquote p {
 
 .story-hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(420px, 0.95fr);
+  grid-template-columns: minmax(0, 1fr) minmax(420px, 1fr);
   gap: 64px;
-  align-items: center;
+  align-items: start;
 }
 
 .story-hero-text {

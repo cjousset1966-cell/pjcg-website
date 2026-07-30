@@ -390,7 +390,7 @@ p {
 
 .audience-card:hover,
 .service-card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-2px);
   background: var(--surface);
   box-shadow: var(--shadow);
 }

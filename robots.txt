@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cjousset1966-cell.github.io/pjcg-website/sitemap.xml

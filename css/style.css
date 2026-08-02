@@ -480,6 +480,13 @@ p {
   background: #e9e0d5;
 }
 
+.quote-section .section-kicker {
+  color: #8a4f36;
+}
+
+.quote-section p {
+  color: #3f3a36;
+}
 blockquote {
   margin: 0 0 38px;
 }

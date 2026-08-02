@@ -622,6 +622,12 @@ blockquote p {
 @media (max-width: 980px) {
   .menu-toggle {
     display: block;
+      .certification-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .certification-logos {
+    max-width: 680px;
   }
 
   .main-nav {

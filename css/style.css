@@ -85,7 +85,7 @@ a {
 }
 
 .section-accent .section-kicker {
-  color: #d9c8b5;
+  color: #f2e7db;
 }
 
 h1,
@@ -431,8 +431,9 @@ p {
   letter-spacing: 0.16em;
 }
 
+
 .pillar p {
-  color: rgba(255,255,255,0.74);
+  color: rgba(255,255,255,0.9);
 }
 
 /* Split story */

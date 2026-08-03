@@ -444,6 +444,26 @@ p {
 .certification-badge {
   max-height: 275px;
 }
+.credential-box {
+  max-width: 540px;
+  margin-top: 30px;
+  padding: 22px 26px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface);
+  box-shadow: 0 12px 32px rgba(34, 32, 29, 0.06);
+}
+
+.credential-box h3 {
+  margin-bottom: 10px;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.credential-box p {
+  margin-bottom: 0;
+  color: var(--muted);
+}
 /* Pillars */
 .pillars-grid {
   display: grid;

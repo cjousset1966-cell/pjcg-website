@@ -674,46 +674,19 @@ blockquote p {
 @media (max-width: 980px) {
   .menu-toggle {
     display: block;
-      .certification-grid {
+  }
+
+  .certification-grid {
     grid-template-columns: 1fr;
   }
 
   .certification-logos {
-  max-width: 680px;
-    /* Certification box */
-
-.credential-box {
-  margin-top: 36px;
-  padding: 24px 28px;
-
-  background: #faf8f4;
-
-  border: 1px solid rgba(0,0,0,.08);
-
-  border-radius: 16px;
-
-  max-width: 540px;
-}
-
-.credential-box h3 {
-  margin: 0 0 10px;
-
-  font-size: 1.15rem;
-
-  color: var(--ink);
-}
-
-.credential-box p {
-  margin: 0;
-
-  line-height: 1.7;
-}
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 18px;
-}
+    max-width: 680px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+  }
 
   .main-nav {
     position: absolute;

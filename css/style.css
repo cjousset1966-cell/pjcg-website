@@ -441,6 +441,9 @@ p {
   border-radius: 16px;
   box-shadow: var(--shadow);
 }
+.certification-badge {
+  max-height: 275px;
+}
 /* Pillars */
 .pillars-grid {
   display: grid;

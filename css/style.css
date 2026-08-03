@@ -630,8 +630,13 @@ blockquote p {
   }
 
   .certification-logos {
-    max-width: 680px;
-  }
+  max-width: 680px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+}
 
   .main-nav {
     position: absolute;

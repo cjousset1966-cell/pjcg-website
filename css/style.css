@@ -613,6 +613,17 @@ blockquote p {
   margin: 0 auto;
 }
 
+/* Animation discrète des logos */
+.logo-placeholder img{
+    transition:
+        transform .25s ease,
+        opacity .25s ease;
+}
+
+.logo-placeholder img:hover{
+    transform: translateY(-4px) scale(1.05);
+}
+
 /* Contact */
 .contact-section {
   background: var(--ink);

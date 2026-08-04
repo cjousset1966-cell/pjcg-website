@@ -590,10 +590,18 @@ blockquote p {
 
 .logo-placeholder {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 26px;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 26px 14px;
   margin-top: 54px;
   align-items: center;
+}
+
+.logo-placeholder img {
+  grid-column: span 2;
+}
+
+.logo-placeholder img:nth-child(6) {
+  grid-column: 2 / span 2;
 }
 
 .logo-placeholder img {

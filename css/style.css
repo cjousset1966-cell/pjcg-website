@@ -808,7 +808,7 @@ h1 {
 }
 
   h2 {
-    font-size: clamp(2.15rem, 10vw, 3.4rem);
+    font-size: clamp(2rem, 8.5vw, 2.8rem);
   }
 
   .hero-actions {

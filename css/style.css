@@ -833,6 +833,9 @@ h1 {
   .services-grid {
     grid-template-columns: 1fr;
   }
+  .logo-placeholder img:nth-child(6) {
+  grid-column: auto;
+}
 
   .audience-card,
   .service-card,

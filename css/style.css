@@ -852,7 +852,7 @@ h1 {
   .logo-placeholder {
     grid-template-columns: 1fr 1fr;
   }
-.logo-placeholder img:nth-child(6) {
+.logo-placeholder img {
   grid-column: auto;
 }
 

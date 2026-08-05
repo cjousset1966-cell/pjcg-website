@@ -853,7 +853,7 @@ h1 {
     grid-template-columns: 1fr 1fr;
   }
 .logo-placeholder img {
-  grid-column: auto;
+  grid-column: auto; 
 }
 
 #story h2 {

@@ -786,6 +786,11 @@ blockquote p {
   .brand-tagline {
     display: none;
   }
+  
+  .brand-name {
+    font-size: 1.05rem;
+    line-height: 1.05;
+}
 
   .hero {
     min-height: calc(100vh - 72px);

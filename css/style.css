@@ -772,6 +772,11 @@ blockquote p {
   .section {
     padding: 78px 0;
   }
+  .section-kicker,
+.eyebrow {
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+}
 
   .header-inner {
     min-height: 72px;

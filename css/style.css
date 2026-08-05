@@ -824,6 +824,10 @@ h1 {
   .button {
     width: 100%;
   }
+  
+  .certification-logos {
+  flex-direction: column;
+}
 
   .audience-grid,
   .services-grid {

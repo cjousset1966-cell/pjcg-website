@@ -749,9 +749,15 @@ blockquote p {
     min-height: 480px;
   }
 
-  .logo-placeholder {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
+ .logo-placeholder {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px 18px;
+}
+
+.logo-placeholder img {
+  grid-column: auto;
+  max-height: 48px;
+}
 
   .footer-inner {
     grid-template-columns: 1fr;
@@ -849,12 +855,7 @@ h1 {
   }
   
 
-  .logo-placeholder {
-    grid-template-columns: 1fr 1fr;
-  }
-.logo-placeholder img {
-  grid-column: auto; 
-}
+ 
 
 #story h2 {
   color: var(--ink);

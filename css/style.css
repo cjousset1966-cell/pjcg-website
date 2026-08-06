@@ -857,9 +857,8 @@ h1 {
   .split-media {
     min-height: 390px;
   }
-  
 
- 
+}
 
 #story h2 {
   color: var(--ink);

@@ -758,10 +758,6 @@ blockquote p {
   grid-column: auto;
   max-height: 48px;
 }
-  
-  .logo-placeholder img:nth-child(6) {
-  transform: scale(1.35);
-}
 
   .footer-inner {
     grid-template-columns: 1fr;

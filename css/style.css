@@ -222,6 +222,12 @@ p {
   flex: 1;
 }
 
+html[lang="fr"] .main-nav {
+  gap: 28px;
+  margin-left: 24px;
+}
+
+
 .main-nav a {
   transition: color 180ms ease;
 }

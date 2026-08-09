@@ -764,6 +764,7 @@ blockquote p {
   .nav-cta {
     margin-top: 4px;
     text-align: center;
+    width: 100%;
   }
 
   .pillars-grid {

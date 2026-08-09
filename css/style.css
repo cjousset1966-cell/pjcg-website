@@ -748,7 +748,11 @@ blockquote p {
     background: var(--surface);
     box-shadow: var(--shadow);
   }
-
+  
+  html[lang="fr"] .main-nav {
+    gap: 0;
+    margin-left: 0;
+}
   .main-nav a {
     padding: 13px 10px;
   }

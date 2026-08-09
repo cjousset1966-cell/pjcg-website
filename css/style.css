@@ -817,6 +817,10 @@ blockquote p {
     padding:52px 0;
   }
 
+  .quote-section {
+    padding-top 48px;
+  }
+
   #etats-unis {
     padding-top: 28px;
   }

@@ -760,6 +760,14 @@ blockquote p {
   .main-nav.is-open {
     display: flex;
   }
+  
+.language-switcher {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 13px 10px;
+}
 
   .nav-cta {
     margin-top: 4px;

@@ -3,16 +3,31 @@
 
   <url>
     <loc>https://cjousset1966-cell.github.io/pjcg-website/</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://cjousset1966-cell.github.io/pjcg-website/index-en.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://cjousset1966-cell.github.io/pjcg-website/story.html</loc>
-    <lastmod>2026-07-31</lastmod>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://cjousset1966-cell.github.io/pjcg-website/story-en.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 </urlset>
+

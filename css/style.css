@@ -918,7 +918,9 @@ h1 {
   .logo-placeholder img {
   grid-column: auto;
 }
-
+.logo-placeholder img:nth-child(6) {
+  grid-column: auto;
+}
   .audience-card,
   .service-card,
   .pillar {

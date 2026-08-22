@@ -649,6 +649,10 @@ blockquote p {
   grid-column: span 2;
 }
 
+.logo-placeholder img:nth-child(6) {
+  grid-column: 2 / span 2;
+}
+
 .logo-placeholder img {
   width: 100%;
   max-height: 52px;
